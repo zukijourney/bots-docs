@@ -66,6 +66,7 @@ zuki.gm is a Discord bot specially designed to aid NationRP (Nation RolePlay) an
 
 ## Essential Links, Credits, and the other bots!
 For more utility (and open-source!) bots, check out the [zuki-helpers repository](https://github.com/zukixa/zuki-helpers), the [zuki-risk repository](https://github.com/zukixa/zuki-risk), the [zuki-trivia repositiory](https://github.com/zukixa/zuki-trivia), or simply invite one of the bots involved below!
+- [zuki.gm](https://discord.com/api/oauth2/authorize?client_id=1055209868899913788&permissions=8&scope=bot%20applications.commands)
 - [zuki.time](https://discord.com/api/oauth2/authorize?client_id=1101035453710348339&permissions=19218435669072&scope=bot%20applications.commands)
 - [zuki.count](https://discord.com/api/oauth2/authorize?client_id=1102325506294153348&permissions=1479750581360&scope=bot%20applications.commands)
 - [zuki.risk](https://discord.com/api/oauth2/authorize?client_id=1054742546343010376&permissions=19218569878737&scope=applications.commands%20bot)
